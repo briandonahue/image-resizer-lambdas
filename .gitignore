@@ -4,3 +4,5 @@ event.json
 node_modules
 *.jpg
 *.log
+resizer/index.js
+
